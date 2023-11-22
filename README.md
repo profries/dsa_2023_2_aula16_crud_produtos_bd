@@ -1,8 +1,6 @@
-# Aula 11 - API CRUD de Produtos 
+# Aula 16 - API CRUD de Produtos com Banco de Dados
 
-**Trabalhando com rotas e controllers.** :shipit:
-
-Nessa aula, finalizamos a nossa API CRUD de Produtos (em memória) e trabalhamos com controller e rotas (router).
+Nessa aula, realizamos a nossa API CRUD de Produtos acessando o Banco de Dados (Postgres) e trabalhamos async/await.
 
 Lembrando que para executar:
 ```
